@@ -69,6 +69,8 @@ p{
 .navenlace{
     color: #4e8a80;
     text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
 }
 ul{
     list-style: none;
