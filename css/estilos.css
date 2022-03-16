@@ -10,16 +10,21 @@ body{
     background-color:#4d7a73 ;
     position: relative;
 }
+.bodyclaro{
+    background-color: #fff8d6;
+}
 h2{
     font-family: 'Merriweather', serif,;
     font-weight: 400;
     font-size: large;
+   
 }
 p{
     font-family: 'Roboto Serif', sans-serif;;
     font-weight: 400;
     font-size:  16px;
     line-height: 20px;
+    
 }
 .titulo{
     margin: 5px;
@@ -35,6 +40,7 @@ p{
 
 
 
+
 /*  header */
 .header {
     background-color:white;
@@ -47,6 +53,10 @@ p{
     margin: 0 auto;
     justify-content: space-between;
     align-items: center;
+}
+.headeroscuro{
+    background-color:#4d7a73;
+    height: 80px;
 }
 .divlogo {
     height:60px ;
@@ -70,6 +80,12 @@ p{
 }
 .navenlace{
     color: #4e8a80;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+}
+.navenlacew{
+    color: #fff8d6;
     text-decoration: none;
     font-size: 17px;
     font-weight: 400;
@@ -240,29 +256,10 @@ ul{
 
 
 /* contacto */
-/* .recuadrocontacto{
-    height: 300px;
-    width: 450px ;
-    background-color:#fff8d6;
-    border: 1px;
-    border-style: solid;
-    border-color: white;
-    padding: 20px;
-    margin-left: 50px;
-    margin-top: 50px;
+.row{
+    height: 500px;
+    align-content: center;
 }
-.pcontacto{
-    margin-top: 10px;
-    margin-left: 25px;
-}
-.h2form{
-    width: 100px;
-    padding: 4px;
-    background-color:white;
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-bottom: 10px;
-} */
 
 .btn-open-sidebar{
     display: none;
