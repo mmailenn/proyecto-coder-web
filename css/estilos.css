@@ -86,11 +86,6 @@ ul{
 
 /* inicio */
 
-.container{
-    padding: 0;
-    margin: 0;
-
-}
 
 /* .mainimg{
     background-image: url(../img/laviejados.png);
@@ -245,7 +240,7 @@ ul{
 
 
 /* contacto */
-.recuadrocontacto{
+/* .recuadrocontacto{
     height: 300px;
     width: 450px ;
     background-color:#fff8d6;
@@ -267,7 +262,7 @@ ul{
     margin-top: 20px;
     margin-left: 50px;
     margin-bottom: 10px;
-}
+} */
 
 .btn-open-sidebar{
     display: none;
